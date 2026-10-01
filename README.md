@@ -1,2 +1,4 @@
 # Primecare-FMCG-Integrated-Demand-Production-Supply-Chain-Control-Tower
-An end-to-end FMCG Power BI Control Tower integrating demand, forecasting, production, materials, inventory, procurement, suppliers, capacity and customer fulfilment into a single management decision-support system.
+## Designed and developed an end-to-end Power BI decision-support system integrating FMCG demand, forecasting, production planning, material requirements, inventory, procurement, supplier performance, capacity and customer fulfilment data to provide management with integrated KPI monitoring and exception-based decision support. 
+[Dashboard](Prime_D.PNG)
+
